@@ -1,7 +1,15 @@
 # How does SelectKBest work in Feature Selection?
+
 ## To view the video
-* [Click here](https://youtu.be/UW9U0bYJ-Ys)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=UW9U0bYJ-Ys" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/UW9U0bYJ-Ys?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
 
 [![How does SelectKBest work in Feature Selection?](http://img.youtube.com/vi/UW9U0bYJ-Ys/0.jpg)](http://www.youtube.com/watch?v=UW9U0bYJ-Ys)
 
